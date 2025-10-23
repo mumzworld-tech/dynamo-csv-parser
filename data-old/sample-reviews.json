@@ -1,0 +1,5 @@
+{"Item":{"id":{"S":"sample-001"},"name":{"S":"John Doe"},"rating":{"N":"5"},"comment":{"S":"Excellent product!"},"created_at":{"S":"2024-01-15T10:30:00Z"},"verified":{"S":"true"}}}
+{"Item":{"id":{"S":"sample-002"},"name":{"S":"Jane Smith"},"rating":{"N":"4"},"comment":{"S":"Good quality"},"created_at":{"S":"2024-01-15T14:20:00Z"},"verified":{"S":"true"}}}
+{"Item":{"id":{"S":"sample-003"},"name":{"S":"Bob Johnson"},"rating":{"N":"3"},"comment":{"S":"Average experience"},"created_at":{"S":"2024-01-15T16:45:00Z"},"verified":{"S":"false"}}}
+{"Item":{"id":{"S":"sample-004"},"name":{"S":"Alice Brown"},"rating":{"N":"5"},"comment":{"S":"Amazing service!"},"created_at":{"S":"2024-01-15T18:10:00Z"},"verified":{"S":"true"}}}
+{"Item":{"id":{"S":"sample-005"},"name":{"S":"Charlie Wilson"},"rating":{"N":"2"},"comment":{"S":"Could be better"},"created_at":{"S":"2024-01-15T20:30:00Z"},"verified":{"S":"false"}}}

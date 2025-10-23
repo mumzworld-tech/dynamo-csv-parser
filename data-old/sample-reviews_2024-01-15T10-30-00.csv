@@ -1,0 +1,6 @@
+id,name,rating,comment,created_at,verified
+sample-001,John Doe,5,Excellent product!,2024-01-15T10:30:00Z,true
+sample-002,Jane Smith,4,Good quality,2024-01-15T14:20:00Z,true
+sample-003,Bob Johnson,3,Average experience,2024-01-15T16:45:00Z,false
+sample-004,Alice Brown,5,Amazing service!,2024-01-15T18:10:00Z,true
+sample-005,Charlie Wilson,2,Could be better,2024-01-15T20:30:00Z,false
